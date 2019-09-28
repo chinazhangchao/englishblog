@@ -1,0 +1,9 @@
+div.layui-container {
+    max-width: 1024px;
+    background-color: #eeeeee;
+    padding: 30px 20px;
+}
+
+div#main-content {
+    max-width: 900px;
+}
